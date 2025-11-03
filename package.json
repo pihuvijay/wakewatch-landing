@@ -1,6 +1,9 @@
 {
   "name": "react-landing-page-2021",
   "version": "1.0.0",
+  "engines": {
+    "node": "16.x"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
